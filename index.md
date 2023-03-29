@@ -57,6 +57,8 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endunless %}
 {% endif %} -->
 
+<h2>Registration for this workshop begins on April 7, 2023 at 8:00 am PST.</h2>
+
 {% comment %}
 EVENTBRITE
 
